@@ -1,9 +1,3 @@
-/*
-Program: Master of Computer Science
-Name: Yi-Dar Liu
-ID#: 32845675
-*/
-
 #include "integration.h"
 
 using namespace std;
